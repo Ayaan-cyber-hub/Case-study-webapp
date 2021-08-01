@@ -1,0 +1,63 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: darkblue;
+}
+.header_div{
+    background-color: darkcyan;
+    color: whitesmoke;
+    font-size: 35px;
+}
+.header_div img{
+    width: 100px;
+    border-radius: 20px;
+}
+.One{
+    background-color: turquoise;
+    font-size: 25px;
+}
+.main_div{
+    background-color: rgba(18, 187, 131, 0.877);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(0, 2, 2);
+}
+.main_div label{
+    background: rgba(0, 255, 55, 0.753);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 10px 10px 45px rgb(43, 3, 136);
+    font-size: 22px;
+}
+#camera,#result{
+    border: 2px solid whitesmoke;
+    width: 310ox;
+    height: 300px;
+    box-shadow: 10px 10px 45px rgb(43, 3, 136);
+}
+.main_div button{
+    width: 310px;
+    box-shadow: 10px 10px 45px rgb(43, 3, 136);
+    border: 1px solid white;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div img{
+    width: 70px;
+}
+.footer_div h4{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 8px;
+    box-shadow: 14px 14px 55px steelblue;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: steelblue;
+    text-align: center;
+    font-size: 30px;
+}
